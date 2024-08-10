@@ -1,0 +1,29 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1723282762775,475,HTTP Request,200,OK,Thread Group 1-1,text,false,,1220,119,1,1,https://www.boredapi.com,475,0,319
+1723282763259,0,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.boredapi.com:443 failed to respond,Thread Group 1-1,text,false,,2097,0,1,1,https://www.boredapi.com,0,0,0
+1723282763259,452,HTTP Request,200,OK,Thread Group 1-1,text,false,,1220,119,1,1,https://www.boredapi.com,452,0,303
+1723282763711,0,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.boredapi.com:443 failed to respond,Thread Group 1-1,text,false,,2097,0,1,1,https://www.boredapi.com,0,0,0
+1723282763711,489,HTTP Request,200,OK,Thread Group 1-1,text,false,,1220,119,1,1,https://www.boredapi.com,489,0,328
+1723282764201,0,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.boredapi.com:443 failed to respond,Thread Group 1-1,text,false,,2097,0,1,1,https://www.boredapi.com,0,0,0
+1723282764201,452,HTTP Request,200,OK,Thread Group 1-1,text,false,,1220,119,1,1,https://www.boredapi.com,452,0,301
+1723282764653,0,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.boredapi.com:443 failed to respond,Thread Group 1-1,text,false,,2097,0,1,1,https://www.boredapi.com,0,0,0
+1723282764653,448,HTTP Request,200,OK,Thread Group 1-1,text,false,,1216,119,1,1,https://www.boredapi.com,448,0,299
+1723282765102,0,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.boredapi.com:443 failed to respond,Thread Group 1-1,text,false,,2097,0,1,1,https://www.boredapi.com,0,0,0
+1723282765102,476,HTTP Request,200,OK,Thread Group 1-1,text,false,,1216,119,1,1,https://www.boredapi.com,476,0,325
+1723282765579,0,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.boredapi.com:443 failed to respond,Thread Group 1-1,text,false,,2097,0,1,1,https://www.boredapi.com,0,0,0
+1723282765579,452,HTTP Request,200,OK,Thread Group 1-1,text,false,,1224,119,1,1,https://www.boredapi.com,452,0,303
+1723282766035,0,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.boredapi.com:443 failed to respond,Thread Group 1-1,text,false,,2097,0,1,1,https://www.boredapi.com,0,0,0
+1723282766035,448,HTTP Request,200,OK,Thread Group 1-1,text,false,,1224,119,1,1,https://www.boredapi.com,448,0,300
+1723282766483,0,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.boredapi.com:443 failed to respond,Thread Group 1-1,text,false,,2097,0,1,1,https://www.boredapi.com,0,0,0
+1723282766484,454,HTTP Request,200,OK,Thread Group 1-1,text,false,,1236,119,1,1,https://www.boredapi.com,454,0,303
+1723282766938,0,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.boredapi.com:443 failed to respond,Thread Group 1-1,text,false,,2097,0,1,1,https://www.boredapi.com,0,0,0
+1723282766939,443,HTTP Request,200,OK,Thread Group 1-1,text,false,,1236,119,1,1,https://www.boredapi.com,443,0,297
+1723282767382,0,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.boredapi.com:443 failed to respond,Thread Group 1-1,text,false,,2097,0,1,1,https://www.boredapi.com,0,0,0
+1723282767382,448,HTTP Request,200,OK,Thread Group 1-1,text,false,,1224,119,1,1,https://www.boredapi.com,448,0,299
+1723282767830,1,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.boredapi.com:443 failed to respond,Thread Group 1-1,text,false,,2097,0,1,1,https://www.boredapi.com,0,0,0
+1723282767831,449,HTTP Request,200,OK,Thread Group 1-1,text,false,,1224,119,1,1,https://www.boredapi.com,449,0,298
+1723282768280,0,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.boredapi.com:443 failed to respond,Thread Group 1-1,text,false,,2097,0,1,1,https://www.boredapi.com,0,0,0
+1723282768280,459,HTTP Request,200,OK,Thread Group 1-1,text,false,,1224,119,1,1,https://www.boredapi.com,459,0,307
+1723282768739,0,HTTP Request,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: www.boredapi.com:443 failed to respond,Thread Group 1-1,text,false,,2097,0,1,1,https://www.boredapi.com,0,0,0
+1723282768775,197,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-2,text,false,,3188,0,2,2,https://www.boredapi.com,0,0,197
+1723282768740,233,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-1,text,false,,3188,0,3,3,https://www.boredapi.com,0,0,233
